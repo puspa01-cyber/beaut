@@ -72,8 +72,8 @@ const Feature108 = ({
           "HELIX H1 maintains full operational capability in environments too dangerous for human workers — high-radiation facilities, chemical plants, structurally compromised sites, and extreme-temperature zones. IP67-rated and hardened against electromagnetic interference.",
         buttonText: "Learn More",
         imageSrc:
-          "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&auto=format&fit=crop",
-        imageAlt: "Industrial critical environment",
+          "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&auto=format&fit=crop",
+        imageAlt: "Industrial hazardous environment",
       },
     },
   ],
