@@ -16,8 +16,11 @@ export default function Home() {
   return (
     <main className="min-h-screen">
 
+      {/* Navbar */}
+      <Navbar1 />
+
       {/* 1 — Hero */}
-      <section className="w-full px-6 pt-6">
+      <section className="w-full px-6 pt-0">
         <Card className="w-full h-[500px] bg-black/[0.96] relative overflow-hidden">
           <Spotlight
             className="-top-40 left-0 md:left-60 md:-top-20"
@@ -177,11 +180,6 @@ export default function Home() {
       {/* 7 — FAQs */}
       <section className="py-24 bg-muted/30">
         <FaqsSection />
-      </section>
-
-      {/* 8 — Navbar */}
-      <section className="py-12 bg-background border-t border-border">
-        <Navbar1 />
       </section>
 
     </main>
